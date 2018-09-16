@@ -1,2 +1,5 @@
 # Sit-On-Chair
-Page for fictional web store with chairs - Coders Lab workshops.
+
+Page for fictional web store with chairs. 
+
+Built with HTML5, CSS3 and JS.
